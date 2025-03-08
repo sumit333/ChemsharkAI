@@ -259,7 +259,7 @@ nav a:hover {
     left: 0;
     width: 100%;
     height: 85px;
-    background: url(assets/wave.png);
+    background: url(assests/wave.png);
     background-size: 1000px 100px;
     filter: invert(31%) sepia(92%) saturate(679%) hue-rotate(182deg);
 }
